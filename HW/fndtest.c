@@ -42,7 +42,7 @@ int fndInit(int num, int dotflag) {
 	return 1;
 }
 
-void fndsetZero() {
+int fndsetZero() {
     int fd;
     stFndWriteForm stWriteData;
     for (int i = 0; i < 6; i++) {

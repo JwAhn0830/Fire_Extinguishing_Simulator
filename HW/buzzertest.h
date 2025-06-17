@@ -19,7 +19,7 @@ char gBuzzerBaseSysDir[128]; //sys/bus/platform/devices/peribuzzer.XX가 결정�
 // const int musicScale[MAX_SCALE_SETP] = {262, 294, 330, 349, 392, 440, 494}; // do re mi ... si do
 void buzzerEnable();
 void setFrequency(int frequency);
-void buzzerInit();
+int buzzerInit();
 void buzzerExit();
 void buzzerTone();
 void buzzerStop();

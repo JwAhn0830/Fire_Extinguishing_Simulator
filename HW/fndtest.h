@@ -14,7 +14,7 @@ typedef struct FNDWriteDateForm_tag {
 }stFndWriteForm, *pStFndWriteForm;
 
 int fndInit(int num, int dotflag);
-void fndsetZero();
+int fndsetZero();
 int fndTimer(int time, int MODE);
 int fndExit();
 

@@ -70,5 +70,7 @@ void temp_read()
 
     double temp = (double)value * 0.0625;
     //1비트가 0.0625도 
-    printf("Current Temp : %lf \n", temp);
+    printf("[Temperature] : %lf \n", temp);
+
+
 }

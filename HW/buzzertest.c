@@ -24,7 +24,7 @@ void setFrequency(int frequency) {
     close(fd);
 }
 
-void buzzerInit() {
+int buzzerInit() {
     //Fine Buzzer System Path
     DIR * dir_info = opendir(BUZZER_BASE_SYS_PATH);
     int ifNotFound = 1;
