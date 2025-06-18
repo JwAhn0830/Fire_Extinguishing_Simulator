@@ -430,6 +430,7 @@ void *color_led(void *arg) {
     while(!dead)
     {
         colorLED_init();
+        colorLED_pwmEnable(); //25.06.19 추가 (이 함수 추가해야 COLORLED 작동됨)
         /* ── 빨간색 ON ─────────────────── */
         colorLED_serPercent(100, 0);   // R 100 %
         colorLED_serPercent(0,   1);   // G  0 %
