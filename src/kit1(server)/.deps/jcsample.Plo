@@ -1,0 +1,132 @@
+jcsample.lo: jcsample.c \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdc-predef.h \
+ jinclude.h jconfig.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/lib/gcc/arm-linux-gnueabi/5.5.0/include/stddef.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdlib.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/features.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/gnu/stubs-soft.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/waitflags.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/waitstatus.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/endian.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/byteswap-16.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/types.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/time.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/select.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/select.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/time.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/alloca.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdlib-bsearch.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdlib-float.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdio.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/libio.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/_G_config.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/wchar.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/lib/gcc/arm-linux-gnueabi/5.5.0/include/stdarg.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/sys_errlist.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdio.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/string.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/xlocale.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/string.h \
+ /home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/string2.h \
+ jpeglib.h jmorecfg.h jpegint.h jerror.h
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdc-predef.h:
+
+jinclude.h:
+
+jconfig.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/lib/gcc/arm-linux-gnueabi/5.5.0/include/stddef.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/features.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/gnu/stubs-soft.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/waitflags.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/waitstatus.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/byteswap-16.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/time.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/alloca.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdlib-bsearch.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdlib-float.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/stdio.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/libio.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/_G_config.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/wchar.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/lib/gcc/arm-linux-gnueabi/5.5.0/include/stdarg.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdio_lim.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/sys_errlist.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/stdio.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/string.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/string.h:
+
+/home/jh/develop/gcc-linaro-5.5.0-2017.10-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/usr/include/bits/string2.h:
+
+jpeglib.h:
+
+jmorecfg.h:
+
+jpegint.h:
+
+jerror.h:
