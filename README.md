@@ -7,7 +7,7 @@ CNDI eCUBE
 <img src="https://github.com/user-attachments/assets/0abd7804-e528-4b7a-9f1d-8f9858d05f10" width="600" height="400"/>
 -  Ubuntu 14.0LTS
 -  NXP i.MX6 ARM Quad-Core 1G HZ
--  LCD, FND, Buzzer, LED, Button, Gyro, Aceel, Magnet, Temp sensor, ColrLED
+-  LCD, FND, Buzzer, LED, Button, Gyro, Aceel, Magnet, Temp sensor, ColorLED
 -  12V 3A DC power Requried
 
 ## breif 
@@ -24,6 +24,7 @@ CNDI eCUBE
 |fnd|Indicate Score|-|
 |textLCD|Displays the progress of the simulatrion|-|
 |LCD|Displays background and fire using frame buffer|-|
+
 ## System Overview
 - Device Communication (TCP socket)
   - Kit1 and Kit2 are connected via a TCP-based socket communication protocol.
@@ -46,8 +47,10 @@ CNDI eCUBE
 4. Hold Kit2 like a gun to simulate aiming and shooting.
 5. Press the HOME button on Kit2 to start the simulation.
 6. The aim (blue dot) on Kit1's screen updates in real-time based on Kit2’s movement.
-7. Press the VOL_UP button on Kit2 to exit the simulation.
+7. Press the VOL_DOWN button on Kit2 to exit the simulation.
 
 ## Flow Chart
-needs to be updated
+<img width="9450" alt="Image" src="https://github.com/user-attachments/assets/6a9da4ff-ada6-4a8a-ae14-6d92c9b9db2e" />  
+
 ## Demo 
+[Video](https://youtube.com/shorts/hgmQWAQHwIo)
