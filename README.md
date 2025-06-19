@@ -26,6 +26,8 @@ CNDI eCUBE
 |LCD|Displays background and fire using frame buffer|-|
 
 ## System Overview
+<img width="9450" alt="Image" src="https://github.com/user-attachments/assets/ffea56c0-8261-4411-a211-8435a5329d27" />  
+
 - Device Communication (TCP socket)
   - Kit1 and Kit2 are connected via a TCP-based socket communication protocol.
 - Gyroscope-Based Aiming Mechnism
